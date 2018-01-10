@@ -1,39 +1,12 @@
-/* class, definitions*/
-
-.js{
+p:hover{
   display: none;
+  text-decoration: none;
 }
 
-.optrs{
-  display: none;
-}
-
-.var{
-  display: none;
-}
-
-/* ID, terms */
-
-#expand1{
+.expand{
   cursor: pointer;
 }
 
-#expand1:hover {
-  text-decoration: underline;
-}
-
-#expand2{
-  cursor: pointer;
-}
-
-#expand2:hover {
-  text-decoration: underline;
-}
-
-#expand3{
-  cursor: pointer;
-}
-
-#expand3:hover {
+.expand:hover {
   text-decoration: underline;
 }
